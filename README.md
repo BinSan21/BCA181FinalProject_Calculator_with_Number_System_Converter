@@ -33,3 +33,9 @@ This project utilizes a "blank-slate" stimulus-free testbench (`tb_calculator.v`
 2. Run Behavioral Simulation.
 3. Apply the provided `tb_calculator_behav.wcfg` to format the waveforms (Signed Decimal, Hex, and Binary).
 4. Use the Vivado **Force Constant** GUI on `mode_select`, `opcode`, `operand_A`, and `operand_B` to inject real-time stimuli and observe the datapath routing dynamically.
+
+
+
+Project Developer :
+Binyusoph Sansarona
+Ken Jhim Villanueva
